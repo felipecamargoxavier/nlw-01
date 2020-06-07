@@ -24,6 +24,7 @@ O <b>Ecoleta</b> é um projeto construído no curso Next Level Week (NLW) promov
 # Tecnlogogias
 
   <ul>
+    <li>TypeScript</li>
     <li>Node.js</li>
     <li>SQLite</li>
     <li>ReactJS</li>
