@@ -13,6 +13,10 @@ O <b>Ecoleta</b> é um projeto construído no curso Next Level Week (NLW) promov
 
 <p>Conectar as pessoas com os pontos de coleta de resíduos orgânicos e recicláveis</p>
 
+<p align="center">
+<img width="300" height="300" src="https://github.com/FelipeCamargoXavier/nlw-01/blob/master/web/src/assets/home-background.svg">
+</p>
+
 # Tecnlogogias
 
   <ul>
