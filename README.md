@@ -53,3 +53,18 @@ $ npm run knex:seed
 $ npm run dev
   ```
 
+# Install and run Web Frontend
+
+```
+ # Clone this repository
+$ git clone https://github.com/FelipeCamargoXavier/nlw-01.git
+
+# Go into the repository
+$ cd nlw-01/web
+
+# Install dependencies
+$ npm install / yarn install
+
+# Start App
+$ npm start
+```
