@@ -53,7 +53,7 @@ $ npm run knex:seed
 $ npm run dev
   ```
 
-# Install and run Web Frontend
+# Install and run Web Front-end
 
 ```
  # Clone this repository
