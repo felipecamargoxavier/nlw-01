@@ -11,7 +11,7 @@ O <b>Ecoleta</b> é um projeto construído no curso Next Level Week (NLW) promov
 
 # Objetivo
 
-<p>Conectar as pessoas com os pontos de coleta de resíduos orgânicos e recicláveis</p>
+<p>Conectar <b>pessoas</b> com os <b>pontos de coleta de resíduos orgânicos e recicláveis</b></p>
 
 <p align="center">
 <img width="500" height="450" src="https://github.com/FelipeCamargoXavier/nlw-01/blob/master/web/src/assets/home-background.svg">
@@ -30,4 +30,26 @@ O <b>Ecoleta</b> é um projeto construído no curso Next Level Week (NLW) promov
     <li>React Native</li>
     <li>Expo</li>
   </ul>
+  
+  # Install and run API
+  
+  ```
+# Clone this repository
+$ git clone https://github.com/FelipeCamargoXavier/nlw-01.git
+
+# Go into the repository
+$ cd nlw-01/server
+
+# Install dependencies
+$ npm install
+
+# Run Migrates
+$ npm run knex:migrate
+
+# Run Seeds
+$ npm run knex:seed
+
+# Start server
+$ npm run dev
+  ```
 
