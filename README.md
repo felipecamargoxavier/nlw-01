@@ -57,7 +57,7 @@ $ npm run dev
 # Install and run Web Front-end
 
 ```
- # Clone this repository
+# Clone this repository
 $ git clone https://github.com/FelipeCamargoXavier/nlw-01.git
 
 # Go into the repository
